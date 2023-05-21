@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/close.svg</file>
+    <file>icon/database.svg</file>
+    <file>icon/minimize.svg</file>
+    <file>icon/maxmize.svg</file>
+    <file>icon/4.jpg</file>
+    <file>icon/github.svg</file>
+    <file>icon/mail.svg</file>
+    <file>icon/phone.svg</file>
+    <file>icon/baisi.png</file>
+    <file>icon/plus.svg</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>image/register.jpg</file>
+    <file>image/American_Robin.jpg</file>
+    <file>image/fish.png</file>
+  </qresource>
+</RCC>
